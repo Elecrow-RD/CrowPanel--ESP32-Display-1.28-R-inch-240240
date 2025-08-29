@@ -22,9 +22,10 @@ Check whether the materials on the PCBA board are defective. Such as less materi
 
 
 
-For the  Crowpanel Advance HMI ESP32 AI Display, the chip select ESP32-S3:
+For the  Crowpanel Advance HMI ESP32 AI Display, the chip select ESP32-C3:
 
-![flash03](./flash03.jpg)
+![Uploading flash03.jpg…]()
+
 
 ##### Step3
 
